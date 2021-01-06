@@ -44,7 +44,7 @@ module.exports = msgHandler = async (client, message) => {
         }
 
         const mess = {
-            wait: '[ WAIT ] Sedang di proses⏳ silahkan tunggu sebentar',
+            wait: '[ WAIT ] Em processo.⏳ Aguarde. ',
             error: {
                 St: '[❗] Envie imagens com a legenda !sticker ou marque ela com essa legenda.',
                 Qm: '[❗] Ocorreu um erro, talvez o tema não esteja disponivel',
